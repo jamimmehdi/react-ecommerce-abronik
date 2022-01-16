@@ -1,38 +1,60 @@
-.App {
-  text-align: center;
-}
+:root {
+    --main-bg-color: #F5F5F5;
+    --color-one: #F05454;
+    --color-black: #121212;
+    --color-gray: #30475E;
+    --color-blue: #1C6DD0;
+    --color-hover-blue: #1e78e6;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    --color-white: #f0f0f0;
+    --color-white-bg: #fff;
+    --color-black: #000;
+    --color-light-black: #172337;
+    --color-brand-orange: #fb641b;
+    --color-brand-blue: #2874f0;
+    --color-brand-bbd: #2455f4;
+    --color-brand-refurb: #f2575b;
+    --color-brand-footer: #172337;
+    --color-brand-blue-lighter: #7accff;
+    --color-brand-blue-lighter1: #dfeafd;
+    --color-blue-lighter1: #b3d7ff;
+    --color-blue-lighter2: #2370f4;
+    --color-primary-yellow: #ffe11b;
+    --color-yellow-grade1: #fff7e1;
+    --color-yellow-grade2: #fef8e0;
+    --color-purple: #5f4eeb;
+    --color-offer-green: #388e3c;
+    --color-green-grade0: #26a541;
+    --color-green-grade1: #e9f2e9;
+    --color-green-grade2: #e6f4e8;
+    --color-green-grade3: #e6f3e6;
+    --color-green-grade4: #008c00;
+    --color-yellowish-orange: #ff9f00;
+    --color-flash-green: #11c29b;
+    --color-error-red: #ff6161;
+    --color-error-red2: #ff4343;
+    --color-error-red3: #ffeaed;
+    --color-error-red4: #dd5354;
+    --color-error-red5: #d23276;
+    --color-error-red6: #e4001e;
+    --color-grey-grade0: #fafafa;
+    --color-grey-grade1: #f0f0f0;
+    --color-grey-grade2: #e0e0e0;
+    --color-grey-grade3: #c2c2c2;
+    --color-grey-grade4: #878787;
+    --color-grey-grade5: #212121;
+    --color-grey-grade6: #d7d7d7;
+    --color-grey-grade7: #f9f9f9;
+    --color-grey-grade8: #9e9e9e;
+    --color-grey-grade9: #efefef;
+    --color-grey-grade10: #f5f5f5;
+    --color-grey-grade11: #aaa;
+    --color-grey-grade12: #dbdbdb;
+    --color-grey-grade13: #fbfbfb;
+    --color-grey-grade14: #666;
+    --color-grey-grade15: #f8f8f8;
+    --color-grey-grade16: #eee;
+    --color-grey-grade17: #9b9b9b;
+    --color-grey-grade18: #686868;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
