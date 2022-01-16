@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce-abronik/static/css/main.bbd6f7f8.css",
+    "main.js": "/react-ecommerce-abronik/static/js/main.d154dd23.js",
+    "index.html": "/react-ecommerce-abronik/index.html",
+    "main.bbd6f7f8.css.map": "/react-ecommerce-abronik/static/css/main.bbd6f7f8.css.map",
+    "main.d154dd23.js.map": "/react-ecommerce-abronik/static/js/main.d154dd23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd6f7f8.css",
+    "static/js/main.d154dd23.js"
+  ]
+}
